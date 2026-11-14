@@ -1,6 +1,6 @@
 # Algorithmic Fairness – Reweighing
 
-This repository contains the implementation and evaluation of the **Reweighing** algorithm for bias mitigation as part of the MSc Applied Data Science programme at Utrecht University.
+This repository contains the implementation and evaluation of the **Reweighing** algorithm for bias mitigation
 
 The project evaluates the effectiveness of Reweighing across three datasets:
 
